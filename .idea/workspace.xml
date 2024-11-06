@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afcf2bd0-bb20-434e-bbcc-760a744e834b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tuples-homework.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,22 +27,22 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Gora5567"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Gora5567&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Gora5567/tuples.git",
-    "accountId": "553394d8-bcf2-4cce-ab66-3620d5fd4e5d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Gora5567/tuples.git&quot;,
+    &quot;accountId&quot;: &quot;553394d8-bcf2-4cce-ab66-3620d5fd4e5d&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2oULGoqSHynvqQYLBtQGHswbbGM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -52,6 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.tuples-homework.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "tuples",
     "node.js.detected.package.eslint": "true",
@@ -79,6 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1730919114967</updated>
       <workItem from="1730919116045" duration="398000" />
+      <workItem from="1730919524222" duration="301000" />
     </task>
     <task id="LOCAL-00001" summary="added README.md">
       <option name="closed" value="true" />
@@ -88,7 +89,31 @@
       <option name="project" value="LOCAL" />
       <updated>1730919202410</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added helpers.py&#10;added tuples-homework.py">
+      <option name="closed" value="true" />
+      <created>1730919635752</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730919635752</updated>
+    </task>
+    <task id="LOCAL-00003" summary="edited helpers.py">
+      <option name="closed" value="true" />
+      <created>1730919683744</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730919683744</updated>
+    </task>
+    <task id="LOCAL-00004" summary="edited tuples-homework.py">
+      <option name="closed" value="true" />
+      <created>1730919791341</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730919791341</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +121,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="added README.md" />
+    <MESSAGE value="added helpers.py&#10;added tuples-homework.py" />
+    <MESSAGE value="edited helpers.py" />
+    <MESSAGE value="edited tuples-homework.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited tuples-homework.py" />
   </component>
 </project>
